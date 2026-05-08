@@ -1,0 +1,6 @@
+! Title: My Personal Blocklist
+! Description: Custom domains to block via AdGuard DNS.
+! ---------------------------------------------------
+
+||huggingface.co^
+||mangadex.org^
