@@ -3,4 +3,4 @@
 ! ---------------------------------------------------
 
 ||huggingface.co^
-||mangadex.org^
+||manganato.gg^
