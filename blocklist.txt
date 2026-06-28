@@ -4,3 +4,4 @@
 
 ||huggingface.co^
 ||manganato.gg^
+||mangadex.org^
